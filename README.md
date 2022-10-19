@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @lecongminh24
+- 👋 Hi, I’m Lê Công Minh
 - 👀 I am interested in information in the information technology industry
-- 🌱I'm currently learning the c++ programming language
 - 💞️ I’m looking to collaborate on everyone
 - 📫 How to reach me lecongminh240302@gmail.com
 
